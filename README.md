@@ -8,7 +8,7 @@ Developer, problem-solver, and occasional designer. I enjoy creating digital pro
 
 * 🌍  I'm based in Pune, Maharashtra, IND
 * 🖥️  See my portfolio at [website](http://https://yash095-portfolio.vercel.app/)
-* ✉️  You can contact me at [yashdesh095@gmial.com](mailto:yashdesh095@gmial.com)
+* ✉️  You can contact me at [yashdesh095@gmial.com](mailto:yashdesh095@gmail.com)
 * 🧠  I'm currently learning Gen AI
 
 <p align="left">
