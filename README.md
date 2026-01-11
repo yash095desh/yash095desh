@@ -1,30 +1,138 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yash
-=============================================================================================================================
+# Yash Deshmukh 👋
 
-Full Stack developer
---------------------
+Full-stack developer building AI automation solutions. Based in Pune, India.
 
-Developer, problem-solver, and occasional designer. I enjoy creating digital products that make people’s lives easier. My motto: build smart, keep it simple
+## What I'm Working On
 
-* 🌍  I'm based in Pune, Maharashtra, IND
-* 🖥️  See my portfolio at [website](http://https://yash095-portfolio.vercel.app/)
-* ✉️  You can contact me at [yashdesh095@gmial.com](mailto:yashdesh095@gmail.com)
-* 🧠  I'm currently learning Gen AI
+- Building AI automation tools at **Hypergrow.Ai**
+- Creating RAG systems that pull relevant data from knowledge bases
+- Developing chatbots that understand context and give useful answers
+- Building voice agents for customer support automation
+- Designing workflow automation that reduces manual work
+- Full-stack development with React, Next.js, and Node.js
+- Integrating AI models (OpenAI, LangChain) into production apps
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" title="Clerk" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-</p>
-### Badges
+## Previous Work
 
-<b>My GitHub Stats</b>
+- Optimized backend APIs at **Feed Ants**  35% faster response times
+- Reduced file upload time by 40% using presigned URLs
+- Built real-time notification system with Socket.IO and Redis
+- Developed React Native mobile app for social media platform
+- Created responsive web interfaces with React and Tailwind CSS
+- Managed MongoDB databases with efficient query optimization
+- Handled authentication and session management
 
-<a href="http://www.github.com/yash095desh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yash095desh&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Tech Stack
 
-<b>Top Repositories</b>
+**Frontend:**
+- React, Next.js, React Native
+- TypeScript for type safety
+- Tailwind CSS, ShadCN for styling
+- Redux for state management
+- Framer Motion for animations
 
-<div width="100%" align="center"><a href="https://github.com/yash095desh/Stay-finder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yash095desh&repo=Stay-finder&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+**Backend:**
+- Node.js and Express.js
+- RESTful APIs
+- Socket.IO for real-time features
+- WebSocket connections
+- JWT and OAuth authentication
 
+**Databases:**
+- MongoDB for NoSQL
+- PostgreSQL for relational data
+- Redis for caching and pub/sub
 
-### Socials
+**AI & Automation:**
+- OpenAI API and GPT models
+- LangChain for LLM workflows
+- LangGraph for complex AI agents
+- Vercel AI SDK
+- RAG (Retrieval-Augmented Generation)
+- Vector databases
 
-<p align="left"> <a href="https://www.github.com/yash095desh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/yash095desh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://yashdesh.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" title="Hashnode" /> </picture> </a> <a href="https://www.linkedin.com/in/yash-deshmukh095" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+**Tools & Platforms:**
+- Git and GitHub for version control
+- Docker for containerization
+- Vercel and Netlify for deployment
+- CI/CD pipelines
+- Render for backend hosting
+
+## Projects I've Built
+
+**QueryIQ — AI Database Assistant**
+- Converts natural language to database queries
+- Supports MongoDB, PostgreSQL, and MySQL
+- Uses Vercel AI SDK with multiple AI models
+- Dynamic database connection management
+- Real-time query execution with results in tables
+- Built with Next.js and TypeScript
+
+**Quick Chat — Real-Time Messaging**
+- Instant messaging with WebSocket connections
+- MERN stack (MongoDB, Express, React, Node.js)
+- Socket.IO for real-time sync
+- Multiple chat rooms support
+- Sub-second latency for concurrent users
+- Robust authentication system
+
+**StayFinder — Property Booking Platform**
+- Full booking flow from browsing to checkout
+- Razorpay payment gateway integration
+- Clerk authentication for secure login
+- Automated booking expiration with Inngest
+- Host dashboard with analytics and earnings tracking
+- Reduced abandoned bookings by 25%
+- Built with Next.js, MongoDB, and modern UI
+
+## Education
+
+- **Bachelor of Computer Application (BCA)**
+- Tilak Maharashtra Vidyapeeth, Pune
+- Graduated: 2024
+- GPA: 8.5/10
+- Focus: Full-stack development, data structures, algorithms
+
+## What I Enjoy
+
+- Making applications faster and more efficient
+- Building AI tools that solve real problems (not just demos)
+- Performance optimization and debugging
+- Writing clean, maintainable code
+- Learning new technologies and frameworks
+- Real-time features and WebSocket magic
+- Figuring out how to scale applications
+- Turning complex problems into simple solutions
+
+## Currently Learning
+
+- Advanced AI agent patterns with LangGraph
+- Vector databases and embeddings
+- Microservices architecture
+- Advanced TypeScript patterns
+- System design for scale
+
+## Open For
+
+- Interesting full-stack development projects
+- AI automation consulting or development
+- React Native mobile app projects
+- Freelance opportunities
+- Open source collaborations
+- Tech mentorship or pair programming
+- Startup co-founder opportunities
+
+## Let's Connect
+
+I'm always happy to chat about tech, collaborate on projects, or help with development work.
+
+📧 **Email:** yashdesh095@gmail.com
+
+💼 **LinkedIn:** [yash-deshmukh095](https://linkedin.com/in/yash-deshmukh095)
+
+📱 **Phone:** +91 9691663719
+
+📍 **Location:** Pune, Maharashtra, India
+
+🌐 **Available:** Remote work, open to relocation
+
